@@ -1,0 +1,8 @@
+# Requirements for VibeCollector (generated from collectors/tradingview_collector.py)
+# Detected imports: requests, dotenv (python-dotenv), pandas, tradingview_websocket, zoneinfo (tzdata on some platforms)
+requests
+python-dotenv
+pandas
+tradingview-websocket
+tzdata
+
